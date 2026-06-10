@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "../../Users/2nb23/Desktop/VSCode"
+		},
+		{
+			"path": "../../Users/2nb23/Desktop/Practice"
+		},
+		{
+			"path": "../../Users/2nb23/Desktop/Flask_app"
+		},
+		{
+			"path": "../../Users/2nb23/Desktop/upload_app"
+		},
+		{
+			"path": "../AmazonApp"
+		},
+		{
+			"path": "../../Users/2nb23/Desktop/IRIS_APP"
+		},
+		{
+			"path": "../../Users/2nb23/Desktop/animal_app"
+		},
+		{
+			"path": "../TestApp"
+		},
+		{
+			"path": "../KyokuseiApp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AmazonApp",
+		"python.analysis.diagnosticSeverityOverrides": {
+			"reportMissingImports": "none"
+
+		}
+	}
+}
